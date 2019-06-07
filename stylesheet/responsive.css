@@ -1,5 +1,18 @@
 /* Media Queries
 -------------------------------------------------------------- */
+
+@media (min-width: 1280px){
+	.item-color a{
+		border: 1px solid #f03c6f;
+		line-height: 0 !important;
+		border-radius: 90px;
+		height: 45px;
+		top: 35px;
+		position: relative;
+		padding: 20px 30px !important;
+	  }
+}
+
 @media only screen and (max-width: 1366px) {
 	.post-wrap.style1 .feature-post {
 	    width: 50%;
@@ -17,6 +30,7 @@
 	.feature .section-left {
 		padding-left: 15px;
 	}
+	
 	
 }
 

@@ -380,6 +380,10 @@ strong {
   color: #f03c6f;
 } 
 
+.item-color a{
+  color: #f03c6f!important;
+}
+
 .nav-wrap {
   float: right;
 } 
